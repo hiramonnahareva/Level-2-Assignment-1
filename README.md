@@ -22,7 +22,7 @@
 
 # What is the use of enums in TypeScript? Provide an example of a numeric and string enum. 
 
-ypeScript-এর Enums হলো একটি বিশেষ ফিচার, যা JavaScript-এর type-level extension নয়।
+TypeScript-এর Enums হলো একটি বিশেষ ফিচার, যা JavaScript-এর type-level extension নয়।
 এনাম ব্যবহার করে ডেভেলপাররা নামকৃত ধ্রুবকের একটি সেট তৈরি করতে পারে, যা কোডের উদ্দেশ্য স্পষ্ট করে এবং স্বতন্ত্র কেসগুলো আলাদা রাখে।
 TypeScript এ এনাম দুই ধরনের: numeric এবং string।
 
