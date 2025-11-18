@@ -7,15 +7,15 @@
 - **Interface:** একটি কন্ট্র্যাক্ট বা নিয়ম যা নির্ধারণ করে object বা class-এর structure কেমন হবে—কোন property, কোন type, কোন method থাকবে।  
 - **Type:** একটি নাম দিয়ে কোনো ডেটার ধরন (object, primitive, union, tuple) সংজ্ঞায়িত করার উপায়, যা পুনরায় ব্যবহারযোগ্য।   
 
-## 2. Flexibility
+## 2. ফ্লেক্সিবিলিটি 
 - **Type:** খুব flexible, বিভিন্ন ধরনের typing করা যায়।  
 - **Interface:** সীমিত, মূলত object বা class-এর structure define করে।  
 
-## 3. Class Implementation
+## 3. ক্লাস ইমপ্লিমেন্টেশন
 - **Type:** class implement করা যায়, তবে কম ব্যবহার হয়।  
 - **Interface:** class implement এবং extend করার জন্য ideal।  
 
-## 4. Union / Intersection
+## 4. ইউনিয়ন / ইন্টারসেকশন
 - **Type:** union এবং intersection type তৈরি করা যায়।  
 - **Interface:** union type support করে না, কিন্তু extends দিয়ে structure বাড়ানো যায়।   
 
